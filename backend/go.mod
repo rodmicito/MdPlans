@@ -1,6 +1,6 @@
 module github.com/mdplans/backend
 
-go 1.26.3
+go 1.22.0
 
 require (
 	github.com/gofiber/contrib/websocket v1.3.4
